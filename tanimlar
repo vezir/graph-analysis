@@ -1,0 +1,12 @@
+https://www.sciencedirect.com/topics/computer-science/closeness-centrality
+
+closeness centrality, or average shortest path length, lower values indicate more central nodes
+
+Betweenness centrality is a widely used measure that captures a person's role in allowing information to pass from one part of the network to the other.
+Technically, it measures the percentage of shortest paths that must go through the specific node. 
+
+Hyperlink-Induced Topic Search (HITS; also known as hubs and authorities) is a link analysis algorithm that rates Web pages
+a good hub represents a page that pointed to many other pages, while a good authority represents a page that is linked by many different hubs.[1]
+The scheme therefore assigns two scores for each page: its authority, which estimates the value of the content of the page, and its hub value, which estimates the value of its links to other pages.
+
+
